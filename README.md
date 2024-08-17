@@ -12,6 +12,9 @@ Add or remove Friends
 ![image](https://github.com/user-attachments/assets/65dd0d1c-dcb3-4661-88e6-75b661293ca9)
 View Profile of Users
 ![image](https://github.com/user-attachments/assets/d8b53a5a-5edd-4bd7-b1c7-d6fefa35ec2e)
+You can  also see the likes and comments of individual posts and can also like or comment on a post
+![image](https://github.com/user-attachments/assets/b64ca9c9-98fe-4c57-b19b-6738a7f3a065)
+
 
 
 Features
